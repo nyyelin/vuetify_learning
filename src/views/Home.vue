@@ -15,7 +15,10 @@
     <p class = "capton">Caption</p>
     <v-btn class="pink white--text">Submit</v-btn>
     <v-btn depressed class="pink">Submit</v-btn>
-    <v-btn flat color="green">Submit</v-btn>
+    <v-btn text color="green">Submit</v-btn>
+    <v-btn depressed color="pink white--text">
+    <v-icon>email</v-icon>
+    </v-btn>
 
   </div>
 </template>
